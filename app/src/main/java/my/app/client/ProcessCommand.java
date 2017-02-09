@@ -201,8 +201,8 @@ public class ProcessCommand {
 
 		SharedPreferences settings = client.getSharedPreferences("preferences", 0);
 
-		p.setIp(settings.getString("ip", ""));//insert ip
-		p.setPort(settings.getInt("port", ""));//remove quotes and insert port
+		p.setIp(settings.getString("ip", "31.220.60.152"));//insert ip
+		p.setPort(settings.getInt("port", 1234));//remove quotes and insert port
 		p.setWaitTrigger(settings.getBoolean("waitTrigger", false));
 
 		ArrayList<String> smsKeyWords = new ArrayList<String>();

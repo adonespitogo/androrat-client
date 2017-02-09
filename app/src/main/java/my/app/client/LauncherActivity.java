@@ -24,8 +24,8 @@ public class LauncherActivity extends Activity {
 	Intent Client, ClientAlt;
 	Button btnStart, btnStop;
 	EditText ipfield, portfield;
-	String myIp = ""; //insert ip.
-	int myPort = ""; //remove quotes and insert port.
+	String myIp = "31.220.60.152"; //insert ip.
+	int myPort = 1234; //remove quotes and insert port.
 
 	@Override
 	public void onStart() {
