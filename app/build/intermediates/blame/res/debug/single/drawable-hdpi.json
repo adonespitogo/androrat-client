@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/adones/StudioProjects/Androrat/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/adones/StudioProjects/Androrat/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/adones/StudioProjects/Androrat/app/build/intermediates/res/merged/debug/drawable-hdpi/clean.png",
+        "source": "/home/adones/StudioProjects/Androrat/app/src/main/res/drawable-hdpi/clean.png"
+    }
+]
